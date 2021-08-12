@@ -138,7 +138,7 @@ progressContainer.addEventListener('click', progressBarUpate);
 
 
 
-git status
+
 nextBt.addEventListener("click", nextSong);
 prevBt.addEventListener("click", prevSong);
 
